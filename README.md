@@ -1,4 +1,4 @@
-### Here is what i'm working on! 👋
+## Here is what i'm working on! 👋
 
 - 🔭 I’m currently working on ... React-Native;
 - 🌱 I’m currently learning ... React-Native, ReactJS, NodeJS;
@@ -15,3 +15,14 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnunes-ds&theme=omni&layout=compact)](https://github.com/jnunes-ds/github-readme-stats)
+
+-------------------------
+
+#### Some repositoryes i'm worked or i'm working on:
+-------------------------
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jnunes-ds&repo=PlantMannager&theme=omni)](https://github.com/jnunes-ds/PlantMannager)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jnunes-ds&repo=Podcastr&theme=omni)](https://github.com/jnunes-ds/Podcastr)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jnunes-ds&repo=masterclass-typescript-backend&theme=omni)](https://github.com/jnunes-ds/masterclass-typescript-backend)
