@@ -1,8 +1,5 @@
 ### Here is what i'm working on! 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... React-Native;
 - 🌱 I’m currently learning ... React-Native, ReactJS, NodeJS;
 - 👯 I’m looking to collaborate on ... Mobile and web development;
