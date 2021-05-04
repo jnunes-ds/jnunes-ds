@@ -12,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like to try to make some nonsense apps just for fun.
 -->
+
+
+![Júnior Nunes GitHub stats](https://github-readme-stats.vercel.app/api?username=jnunes-ds&theme=omni&show_icons=true&hide=contribs,prs)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnunes-ds&theme=omni&layout=compact)](https://github.com/jnunes-ds/github-readme-stats)
