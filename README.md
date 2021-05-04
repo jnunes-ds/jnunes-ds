@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Beckend skills;
 - 💬 Ask me about ... JavaScript/TypeScript;
 - 📫 How to reach me: ... https://www.linkedin.com/in/junior-nunes-35a525170/
-- 😄 Pronouns: ... He/His
+- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like to try to make some nonsense apps just for fun.
 -->
