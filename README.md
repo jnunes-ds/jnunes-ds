@@ -26,3 +26,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jnunes-ds&repo=Podcastr&theme=omni)](https://github.com/jnunes-ds/Podcastr)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jnunes-ds&repo=masterclass-typescript-backend&theme=omni)](https://github.com/jnunes-ds/masterclass-typescript-backend)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jnunes-ds&repo=Task&theme=omni)](https://github.com/jnunes-ds/Task)
