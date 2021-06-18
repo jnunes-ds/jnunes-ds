@@ -1,4 +1,4 @@
-<h2 style="color:red"> Here is what i'm working on! 👋</h2>
+## Here is what i'm working on! 👋
 
 - 🔭 I’m currently working on ... React-Native;
 - 🌱 I’m currently learning ... React-Native, ReactJS, NodeJS;
