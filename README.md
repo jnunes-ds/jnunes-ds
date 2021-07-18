@@ -28,8 +28,13 @@
 
 </div>
 
+<div style="display: flex; flex-direction: column">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jnunes-ds&repo=PlantMannager&theme=omni)](https://github.com/jnunes-ds/PlantMannager)
+
 <img src="./assets/PlantMannager.gif" width="300px">
+
+</div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jnunes-ds&repo=Podcastr&theme=omni)](https://github.com/jnunes-ds/Podcastr)
 
