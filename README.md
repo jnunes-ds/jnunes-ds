@@ -1,7 +1,7 @@
 ## Here is what i'm working on! 👋
 
 - 🔭 I’m currently working on ... React-Native;
-- 🌱 I’m currently learning ... React-Native, ReactJS, NodeJS;
+- 🌱 I’m currently learning ... ReactJS and NodeJS;
 - 👯 I’m looking to collaborate on ... Mobile and web development;
 - 🤔 I’m looking for help with ... Beckend skills;
 - 💬 Ask me about ... JavaScript/TypeScript;
