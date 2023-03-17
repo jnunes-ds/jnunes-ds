@@ -1,9 +1,6 @@
 ## Here is what i'm working on! 👋
 
-- 🔭 I’m currently working on ... React-Native;
-- 🌱 I’m currently learning ... ReactJS and NodeJS;
-- 👯 I’m looking to collaborate on ... Mobile and web development;
-- 🤔 I’m looking for help with ... Beckend skills;
+- 🔭 I’m currently working on ... React-Native, ReactJS and NodeJS;
 - 💬 Ask me about ... JavaScript/TypeScript;
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/junior-nunes-35a525170/) // [Rocketseat](https://app.rocketseat.com.br/me/junior-nunes-08767)
 - 😄 Pronouns: ... He/Him
